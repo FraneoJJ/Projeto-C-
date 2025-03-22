@@ -1,0 +1,87 @@
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Projeto de C Sharp.exe.config
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Projeto de C Sharp.exe
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Projeto de C Sharp.pdb
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Google.Protobuf.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\MySql.Data.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Buffers.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.IO.Pipelines.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Memory.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\ZstdSharp.dll
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Google.Protobuf.pdb
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Google.Protobuf.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\MySql.Data.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Buffers.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.IO.Pipelines.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Memory.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.csproj.AssemblyReference.cache
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto_de_C_Sharp.Form1.resources
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto_de_C_Sharp.Properties.Resources.resources
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.csproj.GenerateResource.cache
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.csproj.CoreCompileInputs.cache
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.csproj.CopyComplete
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.exe
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.pdb
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Projeto de C Sharp.exe.config
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Projeto de C Sharp.exe
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Projeto de C Sharp.pdb
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Google.Protobuf.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\MySql.Data.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Buffers.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.IO.Pipelines.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Memory.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Numerics.Vectors.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\ZstdSharp.dll
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Google.Protobuf.pdb
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Google.Protobuf.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Compression.LZ4.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\K4os.Hash.xxHash.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\MySql.Data.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Buffers.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.IO.Pipelines.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Memory.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Numerics.Vectors.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.csproj.AssemblyReference.cache
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto_de_C_Sharp.Form1.resources
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto_de_C_Sharp.Properties.Resources.resources
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.csproj.GenerateResource.cache
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.csproj.CoreCompileInputs.cache
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto .8316B42C.Up2Date
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.exe
+D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.pdb
