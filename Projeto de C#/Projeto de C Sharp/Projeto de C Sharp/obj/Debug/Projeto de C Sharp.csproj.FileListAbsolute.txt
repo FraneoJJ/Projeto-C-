@@ -85,3 +85,4 @@ D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sh
 D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto .8316B42C.Up2Date
 D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.exe
 D:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\obj\Debug\Projeto de C Sharp.pdb
+C:\Projeto de C#\Projeto de C Sharp\Projeto de C Sharp\bin\Debug\Guna.UI2.dll
